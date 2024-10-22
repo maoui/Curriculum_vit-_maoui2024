@@ -82,3 +82,9 @@ body{
         min-height: calc(100vh - 71px);
         border-image: url(imgs/free.png) 30 round;
 }
+
+.ac{
+        background: var(--dark);
+        min-height: calc(100vh - 57px);
+
+}
